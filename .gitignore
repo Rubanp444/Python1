@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+# generated outputs
+data/employees.json
+data/high_earners.csv
+data/salary.xlsx

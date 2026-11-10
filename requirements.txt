@@ -1,0 +1,12 @@
+requests
+python-dotenv
+openpyxl
+pymupdf
+fastapi
+uvicorn
+pytest
+pytest-cov
+httpx
+black
+ruff
+pre-commit
